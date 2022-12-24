@@ -1,0 +1,8 @@
+C:\Users\micha\source\repos\2022_11_16_Krieg_der_Sterne\2022_11_16_Krieg_der_Sterne\bin\Debug\2022_11_16_Krieg_der_Sterne.exe.config
+C:\Users\micha\source\repos\2022_11_16_Krieg_der_Sterne\2022_11_16_Krieg_der_Sterne\bin\Debug\2022_11_16_Krieg_der_Sterne.exe
+C:\Users\micha\source\repos\2022_11_16_Krieg_der_Sterne\2022_11_16_Krieg_der_Sterne\bin\Debug\2022_11_16_Krieg_der_Sterne.pdb
+C:\Users\micha\source\repos\2022_11_16_Krieg_der_Sterne\2022_11_16_Krieg_der_Sterne\obj\Debug\2022_11_16_Krieg_der_Sterne.csproj.AssemblyReference.cache
+C:\Users\micha\source\repos\2022_11_16_Krieg_der_Sterne\2022_11_16_Krieg_der_Sterne\obj\Debug\2022_11_16_Krieg_der_Sterne.csproj.SuggestedBindingRedirects.cache
+C:\Users\micha\source\repos\2022_11_16_Krieg_der_Sterne\2022_11_16_Krieg_der_Sterne\obj\Debug\2022_11_16_Krieg_der_Sterne.csproj.CoreCompileInputs.cache
+C:\Users\micha\source\repos\2022_11_16_Krieg_der_Sterne\2022_11_16_Krieg_der_Sterne\obj\Debug\2022_11_16_Krieg_der_Sterne.exe
+C:\Users\micha\source\repos\2022_11_16_Krieg_der_Sterne\2022_11_16_Krieg_der_Sterne\obj\Debug\2022_11_16_Krieg_der_Sterne.pdb
